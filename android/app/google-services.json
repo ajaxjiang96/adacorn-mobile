@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "828567212548",
+    "firebase_url": "https://adacorn-b5956.firebaseio.com",
+    "project_id": "adacorn-b5956",
+    "storage_bucket": "adacorn-b5956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828567212548:android:be71aa5bbf23c72a",
+        "android_client_info": {
+          "package_name": "com.uoftada.adacorn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828567212548-mmv3immlb8l72hk8fehsudbe1g5q43kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uoftada.adacorn",
+            "certificate_hash": "e082fd08fdf4bfdacaee73b70a7342cccc19f57c"
+          }
+        },
+        {
+          "client_id": "828567212548-24fkuranmctaj45h4ifpekfi6162n6b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt5Yr3SfPzAZjXbShYRJfc1X6BtrxM8hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828567212548-9t981561dqsodkeikbkbmlcscvn8778o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uoftada.adacorn"
+              }
+            },
+            {
+              "client_id": "828567212548-24fkuranmctaj45h4ifpekfi6162n6b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
